@@ -1,0 +1,189 @@
+/* Reset some default styles for the page */
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Define the styles for the first section */
+  .first-section {
+    display: flex;
+    height: 100vh;
+    margin:  2px 0;
+  }
+  
+
+  .second-section {
+    display: flex;
+    height: 100vh;
+    margin:  2px 0;
+  }
+
+
+  .third-section {
+    display: flex;
+    height: 100vh;
+    margin:  2px 0;
+  }
+  
+  .fourth-section {
+    display: flex;
+    height: 100vh;
+    margin:  2px 0;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+
+
+  
+  .black {
+    background-color: hsl(0, 7%, 3%);
+  }
+  
+  .red {
+    background-color: #df151f;
+  }
+  
+  .yellow {
+    background-color: #f5b43c;
+  }
+
+  .white {
+    background-color: hsl(0, 0%, 95%);
+  }
+
+  .ref_title {
+    margin: 300px 1px;
+    padding: 0 20px;
+    font-size: 3rem;
+    color: whitesmoke;
+    align-items: center;
+  }
+
+
+
+  #black_ref h2 {
+    margin-top: 200px;
+    margin-bottom: 100px;
+    font-size: 4rem;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+  }
+
+  #red_ref h2 {
+    margin-top: 200px;
+    margin-bottom: 100px;
+    font-size: 4rem;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+  }
+
+  #yellow_ref h2 {
+    margin-top: 200px;
+    margin-bottom: 100px;
+    font-size: 4rem;
+    color: rgba(31, 28, 28, 0.877);
+    display: flex;
+    justify-content: center;
+  }
+
+  #black_ref .realm_ref_white {
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-bottom: 100px;
+    font-size: 4rem;
+    color: black;
+    display: flex;
+    justify-content: left;
+  }
+
+  #red_ref .realm_ref_white {
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-bottom: 100px;
+    font-size: 4rem;
+    color: black;
+    display: flex;
+    justify-content: left;
+  }
+
+  #yellow_ref .realm_ref_white {
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-bottom: 100px;
+    font-size: 4rem;
+    color: black;
+    display: flex;
+    justify-content: left;
+  }
+
+  #black_ref p {
+    color: white;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+  }
+
+  #red_ref p {
+    color: white;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+  }
+
+  #yellow_ref p {
+    color: black;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+  }
+
+  #black_ref .second.rectangle2.black button {
+    display: block;
+    margin: 100px auto;
+  }
+
+
+  #red_ref .second.rectangle2.red button {
+    display: block;
+    margin: 100px auto;
+  }
+
+  #yellow_ref .second.rectangle2.yellow button {
+    display: block;
+    margin: 100px auto;
+  }
+
+  #black_ref .realm_ref_white_p {
+    text-align: left;
+    line-height: 1;
+    font-size: 1rem;
+    margin-left: 30px;
+    color: black;
+  }
+
+  #red_ref .realm_ref_white_p {
+    text-align: left;
+    line-height: 1;
+    font-size: 1rem;
+    margin-left: 30px;
+    color: black;
+  }
+
+  #yellow_ref .realm_ref_white_p {
+    text-align: left;
+    line-height: 1;
+    font-size: 1rem;
+    margin-left: 30px;
+    color: black;
+  }
+
+
+
+
